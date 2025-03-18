@@ -23,6 +23,7 @@ Feel free to use any other installation method, as all should work.
 
 ## Windows
 Get fucked, I'm not doing a tutorial for windows.
+
 Do it yourself.
 
 ## MacOS
