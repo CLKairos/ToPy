@@ -27,8 +27,8 @@ Do it yourself.
 
 ---
 # Screenshots
-![[screenshotA.png]]
+![[(https://github.com/CLKairos/ToPy/blob/b28e9377c4602868ff9e94f11c9d0a84efb9970d/screenshotA.png)]]
 
-![[ScreenshotB.png]]
+![[(https://github.com/CLKairos/ToPy/blob/b28e9377c4602868ff9e94f11c9d0a84efb9970d/ScreenshotB.png)]]
 
-![[[ScreenshotC.png](https://github.com/CLKairos/ToPy/blob/b28e9377c4602868ff9e94f11c9d0a84efb9970d/ScreenshotC.png)]]
+![[(https://github.com/CLKairos/ToPy/blob/b28e9377c4602868ff9e94f11c9d0a84efb9970d/ScreenshotC.png)]]
