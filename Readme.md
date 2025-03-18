@@ -25,6 +25,9 @@ Feel free to use any other installation method, as all should work.
 Get fucked, I'm not doing a tutorial for windows.
 Do it yourself.
 
+## MacOS
+HAHAHAHAHA FILTHY MAC USER
+
 ---
 # Screenshots
 ![screenshotA](https://github.com/user-attachments/assets/f239191c-31b4-4e23-8a82-c97129e126b8)
