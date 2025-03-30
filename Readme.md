@@ -22,12 +22,11 @@ curl -fsSL https://pyenv.run | bash
 Feel free to use any other installation method, as all should work.
 
 ## Windows
-Get fucked, I'm not doing a tutorial for windows.
-
-Do it yourself.
-
+Download and Install the latest version of [Python](https://www.python.org/downloads/)
+Go to wherever you downloaded the file
+Open the ".py" file
 ## MacOS
-HAHAHAHAHA FILTHY MAC USER
+No idea, you're on your own
 
 ---
 # Screenshots
