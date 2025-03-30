@@ -14,7 +14,7 @@ def save(list, filename):
 def addtask():
 	global taskNumber
 	task = str(input("What do you need to do? "))
-	todoArray.append(f"{taskNumber}: {task})
+	todoArray.append(f"{taskNumber}: {task}")
 	save(todoArray, "todo.txt")
 	taskNumber += 1
 
